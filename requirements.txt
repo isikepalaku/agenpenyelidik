@@ -1,0 +1,10 @@
+phidata
+openai
+python-dotenv
+supabase
+rich
+typer
+fastapi[standard]
+sqlalchemy
+uvicorn
+psycopg2-binary
